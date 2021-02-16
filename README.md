@@ -2,7 +2,7 @@
 
 ## 프로젝트
 
-### [todolist 콘테스트 참가작](https://github.com/since-1994/todo)
+### [todolist 콘테스트 참가](https://github.com/since-1994/todo)
 
 - 진행 시기 : 2021년 2월 1일 - 2021년 2월 13일
 <!--

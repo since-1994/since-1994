@@ -1,8 +1,14 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=since-1994)](https://github.com/anuraghazra/github-readme-stats)
 ## About me
 
+### 👊🏻 What I used..
+- HTML5
+- CSS3
+- SASS
+- JavaScript
+  - ES6
 ### ✍🏻 What I learning for..
-- React 
+- ⚛️ React
 
 ## Project
 

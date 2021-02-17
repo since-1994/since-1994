@@ -10,6 +10,10 @@
 - Node.js
 ### ✍🏻 What I learning for..
 - React
+### 💡What I interested in
+- Next.js
+- Flutter
+- Svelte
 
 ## Project
 

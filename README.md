@@ -9,7 +9,7 @@
 - JavaScript
 - Node.js
 ### ✍🏻 What I learning for..
-- ⚛️ React
+- React
 
 ## Project
 

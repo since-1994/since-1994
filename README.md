@@ -1,7 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=since-1994)](https://github.com/anuraghazra/github-readme-stats)
 ## About me
 
-### what i learning for
+### ✍🏻 What I learning for..
 - React 
 
 ## 프로젝트

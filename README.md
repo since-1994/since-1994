@@ -4,9 +4,9 @@
 ### ✍🏻 What I learning for..
 - React 
 
-## 프로젝트
+## Project
 
-### todolist 콘테스트 참가
+### todo-list 콘테스트 참가
 
 - 진행 시기 : 2021년 2월 1일 - 2021년 2월 13일
 - stack : <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>

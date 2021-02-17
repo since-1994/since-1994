@@ -3,10 +3,11 @@
 
 ### 👊🏻 What I used..
 - HTML5
+- pug(view engine)
 - CSS3
 - SASS
 - JavaScript
-  - ES6
+- Node.js
 ### ✍🏻 What I learning for..
 - ⚛️ React
 

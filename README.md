@@ -33,7 +33,7 @@
 
 ### Thumnail Generator with React
 - 진행 시기 : 2021년 2월 28일 - 
-- stack: React
+- stack : React
 - [자세한 내용](https://github.com/since-1994/thumnail-generator)
 
 

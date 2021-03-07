@@ -14,6 +14,7 @@
 - Next.js
 - Flutter
 - Svelte
+- GraphQL
 
 ## Project
 

@@ -27,7 +27,7 @@
 ### YouTube Clone
 
 - 진행 시기 : 2020년 12월 28일 - 2021년 2월 2일
-- stack : <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src ="https://img.shields.io/badge/node->=14.15.0-green"/> <img src="https://img.shields.io/badge/@Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=black"/> <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
+- stack : <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src ="https://img.shields.io/badge/Express.js-green"/> <img src="https://img.shields.io/badge/@Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=black"/> <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
 - [자세한 내용](https://velog.io/@since-1994/series/YouTube-clone)
 
 ## Project in progress

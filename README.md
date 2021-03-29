@@ -3,7 +3,6 @@
 
 ### 👊🏻 What I used..
 - HTML5
-- pug(view engine)
 - CSS3
 - SASS
 - JavaScript

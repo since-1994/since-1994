@@ -12,6 +12,7 @@
 ### 💡What I interested in
 - Flutter
 - GraphQL
+- Vue
 
 ## Project
 

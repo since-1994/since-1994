@@ -7,11 +7,8 @@
 - SASS
 - JavaScript
 - Node.js
-### ✍🏻 What I learning for..
-- React
 ### 💡What I interested in
-- Flutter
-- GraphQL
+- React
 - Vue
 
 ## Project
